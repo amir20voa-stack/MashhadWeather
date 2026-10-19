@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">آب‌وهوا و تقویم مشهد</string>
+    <string name="tab_weather">آب‌وهوا</string>
+    <string name="tab_calendar">تقویم</string>
+    <string name="refresh">به‌روزرسانی</string>
+    <string name="retry">تلاش مجدد</string>
+    <string name="section_hourly">پیش‌بینی ساعتی (۲۴ ساعت آینده)</string>
+    <string name="section_daily">پیش‌بینی ۷ روز آینده</string>
+    <string name="sunrise_label">طلوع آفتاب</string>
+    <string name="sunset_label">غروب آفتاب</string>
+    <string name="no_occasion">مناسبتی برای این روز ثبت نشده است.</string>
+    <string name="official_holiday">تعطیل رسمی</string>
+    <string name="location_mashhad">مشهد، خراسان رضوی</string>
+</resources>

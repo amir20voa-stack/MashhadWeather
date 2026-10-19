@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- آیکون پیش‌زمینه اپ: خورشید و ابر -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- خورشید -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M44,44m-13,0a13,13 0 1,1 26,0a13,13 0 1,1 -26,0" />
+
+    <!-- پرتوهای خورشید -->
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,20 L44,26 M44,62 L44,68 M20,44 L26,44 M62,44 L68,44 M28.2,28.2 L32.4,32.4 M59.6,28.2 L55.4,32.4 M28.2,59.6 L32.4,55.4 M59.6,59.6 L55.4,55.4" />
+
+    <!-- ابر -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,76 C47.2,76 40,68.8 40,60 C40,52.5 45.1,46.2 52,44.5 C54.5,37.3 61.2,32 69.2,32 C79.1,32 87.2,40 87.2,49.9 C87.2,50.6 87.2,51.2 87.1,51.9 C92.5,53.7 96,58.5 96,64 C96,70.6 90.6,76 84,76 Z" />
+</vector>
